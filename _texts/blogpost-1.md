@@ -15,7 +15,7 @@ toc:
 
 ## Why do we keep dilly-dallying?
 <div style="text-align:justify;">
-From the moment you start to look up papers on Digital Humanities, you quickly come across a vast corpus of texts devoted to the simple question: "What on earth IS Digital Humanities?". At first glance, it might seem that the digital humanities are a very new phenomenon and that these papers trying to define DH are just the symptoms of growth pain of a newly emerging field of study. A few hours after this first observation, you will slowly start to realize that this simply cannot be the case. Depending on where you locate the starting point, digital humanities may already exist for ten, twenty, fifty years or even longer. There are organizations around the globe dedicated to DH, like ADHO and the EADH. It has its own journals, its own canon of texts, its own manifestos, its own conferences. How can this vivid and thriving field not even know how to define itself? Granted, for a new academic discipline fifty years is a very small timeframe. It took other academic disciplines (like psychology) much longer to become recognized and institutionalized. But it seems like DH does have an extraordinarily hard time defining itself. How come? Shouldn't that be easy? Psychology etymologically comes from the Greek psykhe (the soul, the breath) and logia (the study of). It is the study of the mind. the Humanities is derived from the singular word 'humanity', which from the late 15th century was used to designate the 'class of studies concerned with human culture.' ((insert link to etymology dictionary)) Is it then not too far of a stretch to simply define digital humanities as 'the class of studies concerned with digital human culture'?
+From the moment you start to look up papers on Digital Humanities, you quickly come across a vast corpus of texts devoted to the simple question: "What on earth IS Digital Humanities?". At first glance, it might seem that the digital humanities are a very new phenomenon and that these papers trying to define DH are just the symptoms of growth pain of a newly emerging field of study. A few hours after this first observation, you will slowly start to realize that this simply cannot be the case. Depending on where you locate the starting point, digital humanities may already exist for ten, twenty, fifty years or even longer. There are organizations around the globe dedicated to DH, like ADHO and the EADH. It has its own journals, its own canon of texts, its own manifestos, its own conferences. How can this vivid and thriving field not even know how to define itself? Granted, for a new academic discipline fifty years is a very small timeframe. It took other academic disciplines (like psychology) much longer to become recognized and institutionalized. But it seems like DH does have an extraordinarily hard time defining itself. How come? Shouldn't that be easy? Psychology etymologically comes from the Greek psykhe (the soul, the breath) and logia (the study of). It is the study of the mind. the Humanities is derived from the singular word 'humanity', which from the late 15th century was used to designate the 'class of studies concerned with human culture.'<sup><a href="#fn1" id="ref1">\*</a></sup>  Is it then not too far of a stretch to simply define digital humanities as 'the class of studies concerned with digital human culture'?
 </div>
 
 ## It's not that simple.
@@ -66,3 +66,13 @@ In my opinion we can approach this goal by setting the right example. The first 
 To conclude, here's my definition:
 'Digital Humanities is, to Jolan Wuyts, a community of people that call themselves digital humanists, focused on an array of practices to approximate its utopian core. These goals include, but are not limited to: the use of digital tools and methods to change and enhance scholarly research, the creation of a universal library, and a move towards inclusiveness and diversity via convergence.'
 </div>
+
+<br/>
+
+##References
+
+<sup id="fn1">*</sup> <a href ="http://www.etymonline.com/index.php?term=humanities"> the etymology of 'humanities'</a> [&#x21a9;&#xfe0e;](#ref1)
+
+Zaagsma, Gerben. “On Digital History.” BMGN-Low Countries Historical Review 128, no. 4 (2013). <a href ="http://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9344/"> Link </a>
+
+<a href ="http://manifesto.humanities.ucla.edu/2009/05/29/the-digital-humanities-manifesto-20/"> The Digital Humanities Manifesto 2.0 </a>
