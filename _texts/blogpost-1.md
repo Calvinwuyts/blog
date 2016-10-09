@@ -70,7 +70,6 @@ To conclude, here's my definition:
 <br/>
 
 ##References
-
 <sup id="fn1">*</sup> <a href ="http://www.etymonline.com/index.php?term=humanities"> the etymology of 'humanities'</a> [&#x21a9;&#xfe0e;](#ref1)
 
 Zaagsma, Gerben. “On Digital History.” BMGN-Low Countries Historical Review 128, no. 4 (2013). <a href ="http://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9344/"> Link </a>
