@@ -1,6 +1,6 @@
 ---
 layout: drama
-title: A Raisin in the Sun
+title: dramaplaceholder
 author: Lorraine Hansberry
 source: "Hansberry, Lorraine, and Robert Nemiroff. A Raisin in the Sun. Rep Rei edition. New York: Vintage, 2004. Print."
 

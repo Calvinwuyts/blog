@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Dreams
+title: poem3placeholder
 author: Langston Hughes
 source: Project Guttenberg
 ---
@@ -15,4 +15,3 @@ source: Project Guttenberg
 - Frozen with snow.
 
 <p class="citation">{{ page.author }}</p>
-
