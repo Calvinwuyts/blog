@@ -13,6 +13,10 @@ toc:
 ---
 <br/>
 
+Do you want to comment on this text? Get over to <a href = "http://dev-dh-blog.pantheonsite.io/node/3"> Frédéric's Drupal Forum </a>, where you can discuss this to your heart's content!
+<br/>
+<br/>
+
 ## Why do we keep dilly-dallying?
 <div style="text-align:justify;">
 From the moment you start to look up papers on Digital Humanities, you quickly come across a vast corpus of texts devoted to the simple question: "What on earth IS Digital Humanities?". At first glance, it might seem that the digital humanities are a very new phenomenon and that these papers trying to define DH are just the symptoms of growth pain of a newly emerging field of study. A few hours after this first observation, you will slowly start to realize that this simply cannot be the case. Depending on where you locate the starting point, digital humanities may already exist for ten, twenty, fifty years or even longer. There are organizations around the globe dedicated to DH, like ADHO and the EADH. It has its own journals, its own canon of texts, its own manifestos, its own conferences. How can this vivid and thriving field not even know how to define itself? Granted, for a new academic discipline fifty years is a very small timeframe. It took other academic disciplines (like psychology) much longer to become recognized and institutionalized. But it seems like DH does have an extraordinarily hard time defining itself. How come? Shouldn't that be easy? Psychology etymologically comes from the Greek psykhe (the soul, the breath) and logia (the study of). It is the study of the mind. the Humanities is derived from the singular word 'humanity', which from the late 15th century was used to designate the 'class of studies concerned with human culture.'<sup><a href="#fn1" id="ref1">\*</a></sup>  Is it then not too far of a stretch to simply define digital humanities as 'the class of studies concerned with digital human culture'?
