@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Facebook isn't a gimmick."
+title: "Technological optimism is on the rise again: the tides are turning."
 author: Jolan Wuyts
 rights: Public Domain
 publication-date: 2016
