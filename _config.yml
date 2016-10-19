@@ -2,12 +2,14 @@
 
 # Setup
 <<<<<<< HEAD
+<<<<<<< HEAD
 title:               "Let's go exploring"
 tagline:             "Calvin's Safe Space for Digital Humanities blogging"
 =======
+=======
+>>>>>>> master
 title:               "Let's go exploring!"
 tagline:             "Jolan's Safe Space for Digital Humanities blogging"
->>>>>>> master
 description:         'Using the Jekyll theme, this space is a blogging platform for Jolan Wuyts.'
 url:                 'http://calvinwuyts.github.io'
 baseurl:             '/blog/'
