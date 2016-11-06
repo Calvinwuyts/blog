@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Defining DH: an obligatory first post."
 author: Jolan Wuyts
 rights: Public Domain
@@ -13,8 +13,7 @@ toc:
 ---
 <br/>
 
-Do you want to comment on this text? Get over to <a href = "http://dev-dh-blog.pantheonsite.io/node/3"> Frédéric's Drupal Forum </a>, where you can discuss this to your heart's content!
-<br/>
+Do you want to comment on this text? In the sidebar, click on 'Annotate me' and log in with your Hypothes.is account or make a community post to discuss my ramblings.<br/>
 <br/>
 
 ## Why do we keep dilly-dallying?

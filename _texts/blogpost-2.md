@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Technological optimism is on the rise again: the tides are turning."
 author: Jolan Wuyts
 rights: Public Domain
