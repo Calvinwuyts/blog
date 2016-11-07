@@ -74,4 +74,5 @@ Feel free to add more things that you see as essential to this list in the Hypot
 
 ## References
 
+<br/>
 <sup id="fn1">*</sup> <a href="https://www.technologyreview.com/s/429690/why-we-cant-solve-big-problems/"> "Why we can't solve Big Problems" by Jason Pontin, <i>MIT Technology Review, 2012.</i></a> [&#x21a9;&#xfe0e;](#ref1)
